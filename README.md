@@ -22,7 +22,7 @@ CLASS DIAGRAM:
 
 SEQUENCE DIAGRAM:
 
-![image](https://github.com/SriSaiPriyaSenthilvel/LAB-1-ATM/assets/119475702/de871d7a-5b17-49c1-950f-5c63af38c033)
+![image](https://github.com/SriSaiPriyaSenthilvel/LAB-1-ATM/assets/119475702/3fc2b87e-d998-420b-a182-3ed08469a0f1)
 
 STATE CHART DIAGRAM:
 
