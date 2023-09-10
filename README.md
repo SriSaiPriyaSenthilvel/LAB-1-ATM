@@ -16,6 +16,9 @@ ACTIVITY DIAGRAM:
 
 ![image](https://github.com/SriSaiPriyaSenthilvel/LAB-1-ATM/assets/119475702/d4366f28-a9a4-4ce9-8a3d-37cd5e33a213)
 
+CLASS DIAGRAM:
+
+![image](https://github.com/SriSaiPriyaSenthilvel/LAB-1-ATM/assets/119475702/23d1f558-fa44-443d-b1e5-f2655eb81994)
 
 ### RESULT: 
 Thus the Atm and banking System project was executed and the output was verified.
